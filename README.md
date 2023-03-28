@@ -2,4 +2,4 @@
 
 learn blockchains ⚡🔑
 
-with Python and Flask 🔥
+with Python 🐍 and Flask 🔥
